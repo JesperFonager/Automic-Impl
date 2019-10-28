@@ -1,5 +1,5 @@
 Type: WINDOWS_CMD
-Name: SAT.SQLJOB1
+Name: SAT.TESTJOB2
 Login: LOGIN.NEW.1
 Agentgrp: NORDEA.AGENTGRP.IMPL
 Directory: c:\scripts
