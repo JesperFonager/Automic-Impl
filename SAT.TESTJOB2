@@ -1,4 +1,6 @@
 {
+"automic_object" :
+{
 "Type": "WINDOWS_CMD",
 "Name": "SAT.TESTJOB2",
 "Login": "LOGIN.NEW.1",
@@ -6,4 +8,5 @@
 "Directory": "c:\\scripts",
 "Program": "test1.bat",
 "Parameter": "Executing test job 2"
+}
 }
