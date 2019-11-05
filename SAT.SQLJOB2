@@ -1,7 +1,12 @@
-Type: SQLJOB
-Name: SAT.SQLJOB2
-Login: LOGIN.NEW.1
-Agentgrp: NORDEA.AGENTGRP.IMPL
-Directory: c:\scripts
-Program: test1.bat
-Parameter: Executing test sqljob 2
+{
+"automic_object" :
+{
+"Type": "SQLJOB",
+"Name": "SAT.TESTSQL2",
+"Login": "LOGIN.NEW.1",
+"Agentgrp": "NORDEA.AGENTGRP.IMPL",
+"Directory": "c:\\scripts",
+"Program": "test1.bat",
+"Parameter": "Executing test sql 2"
+}
+}
