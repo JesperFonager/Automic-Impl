@@ -1,7 +1,7 @@
 {
 "automic_object" :
 {
-"Type": "WINDOWS?CMD",
+"Type": "WINDOWS_CMD",
 "Name": "SAT.TESTJOB1",
 "Login": "LOGIN.NEW.1",
 "Agentgrp": "NORDEA.AGENTGRP.IMPL",
