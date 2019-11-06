@@ -1,6 +1,7 @@
 {
 "automic_object" :
 {
+"Client": "222",
 "Type": "SQLJOB",
 "Name": "SAT.TESTSQL2",
 "Login": "LOGIN.NEW.1",
