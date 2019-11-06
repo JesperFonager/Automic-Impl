@@ -1,6 +1,7 @@
 {
 "automic_object" :
 {
+"Client": "222",
 "Type": "WINDOWS_CMD",
 "Name": "SAT.TESTJOB2",
 "Login": "LOGIN.NEW.1",
