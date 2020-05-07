@@ -1,0 +1,13 @@
+{
+"automic_object" :
+{
+"Client": "222",
+"Type": "WINDOWS_CMD",
+"Name": "SAT.COMJOB06",
+"Login": "LOGIN.NEW.1",
+"Agentgrp": "NORDEA.AGENTGRP.IMPL",
+"Directory": "c:\\scripts",
+"Program": "test1.bat",
+"Parameter": "Executing test job 3"
+}
+}
