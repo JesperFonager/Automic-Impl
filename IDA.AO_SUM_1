@@ -1,0 +1,11 @@
+{
+"automic_object" :
+{
+"Client": "222",
+"Type": "SQLJOB",
+"Name": "IDA.AO_SUM_1",
+"Script1": "AO_SUM_1.PARSQL",
+"Script1": "AO_SUM.SQL",
+"Parameter": "Executing test job 3"
+}
+}
