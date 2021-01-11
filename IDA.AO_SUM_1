@@ -5,7 +5,10 @@
 "Type": "SQLJOB",
 "Name": "IDA.AO_SUM_1",
 "Script1": "AO_SUM_1.PARSQL",
-"Script1": "AO_SUM.SQL",
-"Parameter": "Executing test job 3"
+"Script2": "AO_SUM.SQL",
+"Script3": "",
+"Script4": "",
+"Script5": "",
+"Predecessors": "SUPERMULE.UNI_OPSUM;SUPERMULE.UNI_OPSUM_TEXT;SUPERMULE.UNI_REGNR"
 }
 }
