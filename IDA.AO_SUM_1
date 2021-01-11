@@ -9,6 +9,9 @@
 "Script3": "",
 "Script4": "",
 "Script5": "",
+"Latestart": "16:59",
+"Backlog_cancel": "Yes",
+"NAR_code": "IDA",
 "Predecessors": "SUPERMULE.UNI_OPSUM;SUPERMULE.UNI_OPSUM_TEXT;SUPERMULE.UNI_REGNR"
 }
 }
